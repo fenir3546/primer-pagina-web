@@ -1,6 +1,37 @@
 .mtitulo {
   background-color: lightgreen;
-  text-align: center;
   color: black;
   font-size: 36px;
+}
+
+.contenido {
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px;
+  border-bottom: 2px solid black;
+}
+
+p {
+  text-align: justify;
+}
+
+img {
+  display: block;
+  width: 40%;
+  height: 60%;
+  margin: 0 auto;
+}
+
+table {
+  margin-bottom: 12px;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
 }
